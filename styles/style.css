@@ -1,0 +1,28 @@
+.gs-bg-info{
+    background-color: #f5e8fc;
+}
+.gs-bg-head{
+    background-color: #78D6C6;
+}
+.gs-btn-submit{
+    background-color: #186F65;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.gs-btn-submit:hover {
+    background-color: #b6f2eb;
+    color: #0a0a0a;
+}
+.categories img{
+    width: 100px;
+}
+.gs-btn-buy-now{
+    background-image: linear-gradient(to bottom, #ff5858 0%, #ff134a 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
